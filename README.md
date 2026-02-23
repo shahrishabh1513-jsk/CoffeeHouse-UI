@@ -1,4 +1,4 @@
-<img width="1804" height="726" alt="image" src="https://github.com/user-attachments/assets/01039836-f22f-4630-a206-35307ed98154" /><img width="1804" height="726" alt="image" src="https://github.com/user-attachments/assets/3df71bb7-c283-4969-8063-8053600083ca" /># ☕ CoffeeHouse-UI – Modern Coffee Shop Website
+# ☕ CoffeeHouse-UI – Modern Coffee Shop Website
 
 ## 🌐 Live Demo  
 👉 (Add your GitHub Pages link here)
@@ -35,6 +35,10 @@ Designed to showcase a premium coffee brand with clean design aesthetics and eng
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Swiper.js-6332F6?style=for-the-badge&logo=swiper&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Responsive-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frontend-FF6F61?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI%2FUX-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Landing%20Page-20B2AA?style=for-the-badge"/>
 </p>
 
 Built completely from scratch without frameworks.
@@ -92,20 +96,7 @@ This project was created to:
 
 ## 📸 Screenshots
 
-Uploading Screenshot 2026-02-23 221018.png…
-
-
-
----
-
-## 🏷️ Tags
-
-<p>
-  <img src="https://img.shields.io/badge/Responsive-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Frontend-FF6F61?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UI%2FUX-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Landing%20Page-20B2AA?style=for-the-badge"/>
-</p>
+<img width="1804" height="726" alt="image" src="https://github.com/user-attachments/assets/01039836-f22f-4630-a206-35307ed98154" />
 
 ---
 
@@ -129,6 +120,7 @@ Passionate about building elegant and interactive web experiences.
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
 
 
 
