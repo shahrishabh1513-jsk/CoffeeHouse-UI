@@ -105,10 +105,6 @@ Example:
 ## 🏷️ Tags
 
 <p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Swiper.js-6332F6?style=for-the-badge&logo=swiper&logoColor=white"/>
   <img src="https://img.shields.io/badge/Responsive-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   <img src="https://img.shields.io/badge/Frontend-FF6F61?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/UI%2FUX-8A2BE2?style=for-the-badge"/>
@@ -137,4 +133,5 @@ Passionate about building elegant and interactive web experiences.
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
 
