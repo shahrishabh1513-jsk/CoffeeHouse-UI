@@ -1,4 +1,4 @@
-# ☕ CoffeeHouse-UI – Modern Coffee Shop Website
+<img width="1804" height="726" alt="image" src="https://github.com/user-attachments/assets/01039836-f22f-4630-a206-35307ed98154" /><img width="1804" height="726" alt="image" src="https://github.com/user-attachments/assets/3df71bb7-c283-4969-8063-8053600083ca" /># ☕ CoffeeHouse-UI – Modern Coffee Shop Website
 
 ## 🌐 Live Demo  
 👉 (Add your GitHub Pages link here)
@@ -92,13 +92,9 @@ This project was created to:
 
 ## 📸 Screenshots
 
-(Add screenshots inside a `/screenshots` folder)
+Uploading Screenshot 2026-02-23 221018.png…
 
-Example:
 
-```
-![Homepage](screenshots/home.png)
-```
 
 ---
 
@@ -133,5 +129,6 @@ Passionate about building elegant and interactive web experiences.
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
 
 
