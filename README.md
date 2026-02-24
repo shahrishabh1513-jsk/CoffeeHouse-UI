@@ -1,7 +1,7 @@
 # ☕ CoffeeHouse-UI – Modern Coffee Shop Website
 
 ## 🌐 Live Demo  
-👉 (Add your GitHub Pages link here)
+👉 https://shahrishabh1513-jsk.github.io/CoffeeHouse-UI/
 
 ---
 
@@ -120,6 +120,7 @@ Passionate about building elegant and interactive web experiences.
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
 
 
 
